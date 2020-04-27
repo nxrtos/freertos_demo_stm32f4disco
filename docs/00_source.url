@@ -1,3 +1,5 @@
+###	OEM hardware information from STMicro 
+
 #	DB1421: STM32F4DISCOVERY Data brief
 https://www.st.com/resource/en/data_brief/stm32f4discovery.pdf
 
@@ -37,3 +39,30 @@ https://www.st.com/resource/en/reference_manual/dm00031020-stm32f405415-stm32f40
 #	PM0214: STM32 Cortex®-M4 MCUs and MPUs programming manual
 https://www.st.com/resource/en/programming_manual/dm00046982-stm32-cortexm4-mcus-and-mpus-programming-manual-stmicroelectronics.pdf
 
+
+###	FreeRTOS information 
+
+#	web base site
+https://freertos.org
+https://aws.amazon.com/freertos/
+
+#	Mastering the FreeRTOS Real Time Kernel – a Hands On Tutorial Guide
+https://freertos.org/wp-content/uploads/2018/07/161204_Mastering_the_FreeRTOS_Real_Time_Kernel-A_Hands-On_Tutorial_Guide.pdf
+
+#	FreeRTOS User Guide
+https://docs.aws.amazon.com/freertos/latest/userguide/freertos-ug.pdf
+https://github.com/awsdocs/aws-freertos-docs/tree/master/doc_source/userguide
+
+#	FreeRTOS Porting Guide
+https://docs.aws.amazon.com/freertos/latest/portingguide/freertos-pg.pdf
+https://github.com/awsdocs/aws-freertos-docs/tree/master/doc_source/portingguide
+
+#	FreeRTOS V10.0.0 Reference Manual 
+https://freertos.org/wp-content/uploads/2018/07/FreeRTOS_Reference_Manual_V10.0.0.pdf
+
+#	Book companion source code 
+https://sourceforge.net/projects/freertos/files/FreeRTOS/V9.0.0/source-code-for-book-examples.zip
+
+#	FreeRTOS Qualification Guide
+https://docs.aws.amazon.com/freertos/latest/qualificationguide/freertos-qg.pdf
+https://github.com/awsdocs/aws-freertos-docs/tree/master/doc_source/qualificationguide
